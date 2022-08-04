@@ -49,13 +49,13 @@ function California() {
               <p>SAINT PAUL</p>
             </div>
             <div class="table-cell first-cell">
-              <p>2,413$</p>
+              <p>2,163$</p>
             </div>
             <div class="table-cell first-cell">
-              <p>2,225$</p>
+              <p>1,975$</p>
             </div>
             <div class="table-cell first-cell">
-              <p>2,225$</p>
+              <p>1,975$</p>
             </div>
             <div class="table-cell first-cell border">
               <p>+700$</p>

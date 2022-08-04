@@ -112,7 +112,7 @@ function California() {
         <p>CONWAY</p>
       </div>
       <div class="table-cell first-cell">
-        <p>1,850$</p>
+        <p>1,800$</p>
       </div>
       <div class="table-cell first-cell">
         <p>1,575$</p>

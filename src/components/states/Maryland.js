@@ -133,7 +133,7 @@ function California() {
               <p>BRANDYWINE</p>
             </div>
             <div class="table-cell first-cell">
-              <p>1,788$</p>
+              <p>1,813$</p>
             </div>
             <div class="table-cell first-cell">
               <p>$1,625</p>
@@ -154,7 +154,7 @@ function California() {
             <p>Elkridge</p>
           </div>
           <div class="table-cell first-cell">
-            <p>1,788$</p>
+            <p>1,813$</p>
           </div>
           <div class="table-cell first-cell">
             <p>$1,625</p>

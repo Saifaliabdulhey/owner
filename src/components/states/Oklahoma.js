@@ -49,7 +49,7 @@ function California() {
               <p>OKLAHOMA CITY</p>
             </div>
             <div class="table-cell first-cell">
-              <p>1,825$</p>
+              <p>1,775$</p>
             </div>
             <div class="table-cell first-cell">
               <p>1,550$</p>
@@ -70,7 +70,7 @@ function California() {
               <p>TULSA</p>
             </div>
             <div class="table-cell first-cell">
-              <p>1,825$</p>
+              <p>1,775$</p>
             </div>
             <div class="table-cell first-cell">
               <p>1,550$</p>
@@ -91,7 +91,7 @@ function California() {
               <p>OKLAHOMA CITY</p>
             </div>
             <div class="table-cell first-cell">
-              <p>1,825$</p>
+              <p>1,775$</p>
             </div>
             <div class="table-cell first-cell">
               <p>1,550$</p>
@@ -112,7 +112,7 @@ function California() {
               <p>TULSA</p>
             </div>
             <div class="table-cell first-cell">
-              <p>1,825$</p>
+              <p>1,775$</p>
             </div>
             <div class="table-cell first-cell">
               <p>1,550$</p>

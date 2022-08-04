@@ -85,19 +85,19 @@ function California() {
 
                     <div class="table-row">
                         <div class="table-cell first-cell-Auction ">
-                            <p>GREENVILLE-IAA-IAA</p>
+                            <p>GREENVILLE-IAA</p>
                         </div>
                         <div class="table-cell first-cell">
                             <p>SIMPSONVILLE</p>
                         </div>
                         <div class="table-cell first-cell">
-                            <p>1,575$</p>
+                            <p>1,625$</p>
                         </div>
                         <div class="table-cell first-cell">
-                            <p>1,338$</p>
+                            <p>1,388$</p>
                         </div>
                         <div class="table-cell first-cell">
-                            <p>1,200$</p>
+                            <p>1,250$</p>
                         </div>
                         <div class="table-cell first-cell border">
                             <p>+700$</p>

@@ -263,27 +263,6 @@ function California() {
             </div>
           </div>
 
-          <div class="table-row">
-          <div class="table-cell first-cell-Auction ">
-            <p>RALEIGH COPART</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>DUNN</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>$1,650</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>$1,413</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>$1,275</p>
-          </div>
-          <div class="table-cell first-cell border">
-            <p>+700$</p>
-          </div>
-        </div>
-
         <div class="table-row">
         <div class="table-cell first-cell-Auction ">
           <p>MANHEIM STATESVILLE</p>

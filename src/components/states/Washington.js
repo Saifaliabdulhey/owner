@@ -116,7 +116,7 @@ function California() {
               <p>2,825$</p>
             </div>
             <div class="table-cell first-cell">
-              <p>2,988$</p>
+              <p>2,763$</p>
             </div>
             <div class="table-cell first-cell">
               <p>2,995$</p>

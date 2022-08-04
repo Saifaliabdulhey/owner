@@ -49,10 +49,10 @@ function California() {
               <p>DENVER</p>
             </div>
             <div class="table-cell first-cell">
-              <p>1.800$</p>
+              <p>2.050$</p>
             </div>
             <div class="table-cell first-cell">
-              <p>2,825$</p>
+              <p>1,825$</p>
             </div>
             <div class="table-cell first-cell">
               <p>1,850$</p>
@@ -112,10 +112,10 @@ function California() {
               <p>BRIGHTON</p>
             </div>
             <div class="table-cell first-cell">
-              <p>1,050$</p>
+              <p>2,050$</p>
             </div>
             <div class="table-cell first-cell">
-              <p>2,075$</p>
+              <p>1,825$</p>
             </div>
             <div class="table-cell first-cell">
               <p>1,850$</p>

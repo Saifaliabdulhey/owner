@@ -49,7 +49,7 @@ function California() {
               <p>BESSEMER</p>
             </div>
             <div class="table-cell first-cell">
-              <p>1,850$</p>
+              <p>1,750$</p>
             </div>
             <div class="table-cell first-cell">
               <p>1,513</p>
@@ -70,7 +70,7 @@ function California() {
               <p>HEADLAND</p>
             </div>
             <div class="table-cell first-cell">
-              <p>1,850$</p>
+              <p>1,750$</p>
             </div>
             <div class="table-cell first-cell">
               <p>1,513</p>
@@ -91,7 +91,7 @@ function California() {
               <p>ATHENS</p>
             </div>
             <div class="table-cell first-cell">
-              <p>1,850$</p>
+              <p>1,750$</p>
             </div>
             <div class="table-cell first-cell">
               <p>1,513</p>
@@ -112,7 +112,7 @@ function California() {
               <p>HUEYTOWN</p>
             </div>
             <div class="table-cell first-cell">
-              <p>1,850$</p>
+              <p>1,750$</p>
             </div>
             <div class="table-cell first-cell">
               <p>1,513</p>
@@ -133,7 +133,7 @@ function California() {
               <p>EIGHT MILE</p>
             </div>
             <div class="table-cell first-cell">
-              <p>1,850$</p>
+              <p>1,750$</p>
             </div>
             <div class="table-cell first-cell">
               <p>1,513</p>
@@ -154,7 +154,7 @@ function California() {
               <p>MONTGOMERY</p>
             </div>
             <div class="table-cell first-cell">
-              <p>1,850$</p>
+              <p>1,750$</p>
             </div>
             <div class="table-cell first-cell">
               <p>1,513</p>
@@ -175,7 +175,7 @@ function California() {
               <p>TANNER</p>
             </div>
             <div class="table-cell first-cell">
-              <p>1,850$</p>
+              <p>1,750$</p>
             </div>
             <div class="table-cell first-cell">
               <p>1,513</p>
